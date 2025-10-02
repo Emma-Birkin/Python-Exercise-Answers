@@ -1,1 +1,2 @@
 Second file added to test gitignore file.
+Change made to this file.
